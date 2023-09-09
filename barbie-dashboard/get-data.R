@@ -28,7 +28,8 @@ movie_table <- movie_tables[[1]] %>%
 #READ DATA ABOUT BARBIE'S CAREERS  --------------------------------------------------------
 #------------------------------------------------------------------------------------------
 
-
+#Full dataset
+barbie_career_data <- read.csv("../barbie_careers_1959-2020.csv")
 
 
 
